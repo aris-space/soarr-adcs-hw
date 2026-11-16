@@ -1,0 +1,25 @@
+# Claude generated
+# KiCad: Backups & Temp
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.bck
+*~
+_autosave-*
+\#auto_saved_files#
+*.tmp
+~*.lck
+*.lck
+fp-info-cache
+
+# Lokale UI-Einstellungen (Fensterlayout, sichtbare Layer usw.)
+*.kicad_prl
+
+# Generierte Exporte
+*.net
+*.dsn
+*.ses
+
+# macOS
+.DS_Store
